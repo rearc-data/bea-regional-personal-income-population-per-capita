@@ -1,4 +1,4 @@
-### Employment by County, Metro, and Other Areas | Personal Income and Employment by Major Component and County (Table CAINC4) | The U.S. Bureau of Economic Analysis (BEA)
+### Personal Income and Population per capita (Table CAINC1) | The U.S. Bureau of Economic Analysis (BEA)
 
 The source code outlining how this product gathers, transforms, revises and publishes its datasets is available at [https://github.com/rearc-data/bea-regional-personal-income-and-employment-by-county](https://github.com/rearc-data/bea-regional-personal-income-and-employment-by-county).
 

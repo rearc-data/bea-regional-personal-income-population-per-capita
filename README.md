@@ -16,7 +16,7 @@ This product uses the Bureau of Economic Analysis (BEA) Data but is not endorsed
 
 ## More Information
 - Source: [The U.S. Bureau of Economic Analysis](https://www.bea.gov/)
-- [BEA - Employment by County, Metro, and Other Areas](https://www.bea.gov/data/employment/employment-county-metro-and-other-areas)
+- [BEA - Regiona Personal Income, Population, Per Capita Income by State](https://www.bea.gov/data/income-saving/personal-income-by-state)
 - [BEA Terms Of Service](https://apps.bea.gov/API/_pdf/bea_api_tos.pdf)
 - Frequency: Annual
 - Format: CSV

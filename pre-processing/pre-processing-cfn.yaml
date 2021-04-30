@@ -9,7 +9,7 @@ Parameters:
     Description: Provide the S3 Bucket name where this dataset resides. For e.g. rearc-data-provider
   DataSetName:
     Type: String
-    Description:bea-personal-income-population-percapita-income
+    Description: bea-personal-income-population-percapita-income
   DataSetArn:
     Type: String
     Description: arn:aws:dataexchange:us-east-1:796406704065:data-sets/64b83bc43c5527f0e3761242e32432d7

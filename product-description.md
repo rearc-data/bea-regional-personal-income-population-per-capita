@@ -1,6 +1,6 @@
 ### Personal Income and Population per capita (Table CAINC1) | The U.S. Bureau of Economic Analysis (BEA)
 
-The source code outlining how this product gathers, transforms, revises and publishes its datasets is available at [https://github.com/rearc-data/bea-regional-personal-income-and-employment-by-county](https://github.com/rearc-data/bea-regional-personal-income-and-employment-by-county).
+The source code outlining how this product gathers, transforms, revises and publishes its datasets is available at [https://github.com/rearc-data/bea-regional-personal-income-population-per-capita](https://github.com/rearc-data/bea-regional-personal-income-population-per-capita).
 
 ## Main Overview
 The U.S. Bureau of Economic Analysis (BEA) produces data about the nation's economy, including U.S. gross domestic product, better known as GDP, as well as state and local numbers, foreign trade and investment stats and industry data.

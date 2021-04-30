@@ -9,13 +9,13 @@ Parameters:
     Description: Provide the S3 Bucket name where this dataset resides. For e.g. rearc-data-provider
   DataSetName:
     Type: String
-    Description: Name of the dataset
+    Description:bea-personal-income-population-percapita-income
   DataSetArn:
     Type: String
-    Description: ARN for the AWS Data Exchange dataset that needs to be updated
+    Description: arn:aws:dataexchange:us-east-1:796406704065:data-sets/64b83bc43c5527f0e3761242e32432d7
   ProductId:
     Type: String
-    Description: ID of the AWS Data Exchange product that needs to be updated
+    Description: 64b83bc43c5527f0e3761242e32432d7
   Region:
     Type: String
     Default: us-east-1

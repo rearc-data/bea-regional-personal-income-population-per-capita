@@ -4,7 +4,7 @@
 
 ### Personal Income Summary: Personal Income, Population, Per Capita Personal Income (Table CAINC1) | The U.S. Bureau of Economic Analysis (BEA)
 
-You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting [https://console.aws.amazon.com/dataexchange/home#/products/prodview-b64lta2bdyhqu](https://console.aws.amazon.com/dataexchange/home#/products/prodview-b64lta2bdyhqu).
+You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting [https://console.aws.amazon.com/dataexchange/home#/products/prodview-b64lta2bdyhqu](https://aws.amazon.com/marketplace/pp/prodview-b64lta2bdyhqu?ref_=beagle&applicationId=AWSMPContessa#offers).
 
 ## Main Overview
 The U.S. Bureau of Economic Analysis (BEA) produces data about the nation's economy, including U.S. gross domestic product, better known as GDP, as well as state and local numbers, foreign trade and investment stats and industry data.
